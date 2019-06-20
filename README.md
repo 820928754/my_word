@@ -1,2 +1,2 @@
-# my_word
+# my_world
 thr first repository
